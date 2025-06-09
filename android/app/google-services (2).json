@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "459543438754",
+    "project_id": "complete-land-454613-v0",
+    "storage_bucket": "complete-land-454613-v0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459543438754:android:81f81101fadbc70196befb",
+        "android_client_info": {
+          "package_name": "com.example.exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDukGFohfVY1a-pvFboSkSeLz7k1bdnpkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
